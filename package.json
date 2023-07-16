@@ -1,0 +1,25 @@
+{
+  "name": "readme_gen",
+  "version": "1.0.0",
+  "description": "readme gen for SL-CODE-LORDS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/readme_gen.git"
+  },
+  "keywords": [],
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/readme_gen/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/readme_gen#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "stream": "^0.0.2",
+    "util": "^0.12.5"
+  }
+}
