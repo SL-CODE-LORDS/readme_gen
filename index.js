@@ -17,7 +17,7 @@ const author_data = {
     },
     sisula : {
         name : 'Sisula Welgamage',
-        github : 'ravindu01manoj'
+        github : 'sisula'
     }
 }
 
