@@ -6,4 +6,4 @@ git clone https://github.com/SL-CODE-LORDS/readme_gen
 cd readme_gen
 npm i
 ```
-and use like [example]('./example.js')
+and use like [example](example.js)
