@@ -10,7 +10,7 @@ var config={ github_token: 'ghp_....', user_name:'ravindu01manoj', repo:'test_gi
 var git = new Github_db(config)
 `
     var codes = [
-        {code:main_code.replace('../githubdb/index','@sl-code-lords/github-db').replace('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','token').replace('ravindu01manoj','user_name')},
+        {code:main_code.replace('../githubdb/index','@sl-code-lords/github-db').replace('ghp_....','token').replace('ravindu01manoj','user_name')},
 
         {title : 'Config',code:`const config = {
     github_token, // your github token
